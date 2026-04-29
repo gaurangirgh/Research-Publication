@@ -22,7 +22,6 @@ The work also explores preventive actions including adaptive charging control, t
 
 * IEEE Conference Proceedings Booklet
 * Individual Research Paper PDF
-* Publication-related documents and references
 
 ## Conference
 
